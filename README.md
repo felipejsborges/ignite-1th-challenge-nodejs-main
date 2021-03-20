@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://pages.rocketseat.com.br/ignite" target="_blank">
-		<img src="./.github/ignite.png" alt="Logo" style="max-width:60%"/>
+		<img src="./.github/ignite.png" alt="Logo" width="70%""/>
 	</a>
 </div>
 
