@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://pages.rocketseat.com.br/ignite" target="_blank">
-		<img src="./.github/ignite.jpg" alt="Logo" style="max-width:80%"/>
+		<img src="./.github/ignite.png" alt="Logo" style="max-width:60%"/>
 	</a>
 </div>
 
@@ -43,7 +43,7 @@
  - **`should not be able to delete a non existing todo`**
  
 <div align="center" style="margin-top: 16px;">	
-	<img src="./.github/tests.jpg" alt="tests" style="max-width:80%"/>
+	<img src="./.github/tests.jpeg" alt="tests" style="max-width:80%"/>
 </div>
 <hr>
 
